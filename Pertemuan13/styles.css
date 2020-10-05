@@ -1,0 +1,16 @@
+img {
+    display: block;
+    background-color: rgb(160, 238, 144);
+    padding: 20px;
+    border: 10px solid rgb(250, 255, 182);
+    margin: 0px ;
+}
+.picture1 {
+    margin: 0px;
+}
+.picture2 {
+    margin: 0px 180px;
+}
+.picture3 {
+    margin: 0px 360px;
+}
